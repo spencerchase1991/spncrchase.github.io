@@ -1,0 +1,37 @@
+header {
+    margin: 50px;
+}
+
+li {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+    padding-right: 300px;
+}
+
+body {
+    background-image: url(barbara-sampaio-236870-unsplash.jpg);
+    background-size: cover;
+    margin: 50px;
+}
+
+#div1 {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#div2 {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.boxmodel {
+    padding-right: 30px;
+}

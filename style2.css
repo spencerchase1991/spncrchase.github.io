@@ -1,0 +1,65 @@
+body {
+    background-image: url(barbara-sampaio-236870-unsplash.jpg);
+    background-size: cover;
+    margin: 50px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+nav {
+    float: right;
+    padding-right: 400px;
+}
+
+li {
+    display: inline-block;
+}
+
+#div1 {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#div2 {
+    background-color: #ffffff;
+}
+
+form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.boxmodel {
+    padding: 30px;
+    color: #777777;
+    font-size: 19px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+}
+
+.submitbutton {
+    width: 100px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
