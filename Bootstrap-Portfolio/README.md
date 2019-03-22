@@ -1,1 +1,1 @@
-# responsive-portfolio
+# bootstrap-portfolio
